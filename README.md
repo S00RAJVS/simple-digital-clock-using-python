@@ -87,5 +87,5 @@ You are free to use, modify, and distribute this project, but it comes **without
 
 ## 👨‍💻 Author
 
-Created by **Sooraj VS** ✨
+Created by **SOORAJ VS** ✨
 If you like this project, ⭐ it on GitHub!
