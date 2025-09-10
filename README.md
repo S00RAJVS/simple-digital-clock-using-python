@@ -30,44 +30,6 @@ cd simple-digital-clock-using-python
 python digital clock.py
 ```
 
----
-
-## 📸 Preview
-
-**Day Mode (10:30 AM):**
-
-```
-Tuesday, 10 September 2025
-10:30:45 AM
-```
-
-**Night Mode (10:30 PM):**
-
-```
-Tuesday, 10 September 2025
-10:30:45 PM
-```
-
----
-
-## 🔧 Customization
-
-* Change fonts in the code:
-
-```python
-date_label = Label(app, font=("Helvetica", 18))
-clock_label = Label(app, font=("DS-Digital", 60, "bold"))
-```
-
-* To see all available fonts on your system:
-
-```python
-import tkinter as tk
-from tkinter import font
-root = tk.Tk()
-print(font.families())
-root.destroy()
-```
 
 ---
 
